@@ -1,6 +1,8 @@
 # ML2020 Assignment CA Chest X ray
 Github - https://github.com/abhimanyusingh01/ML2020
+
 Kaggle - https://www.kaggle.com/abhimanyuchauhan/chest-x-rays-for-pneumonia-detection
+
 The dataset used is ChestX-ray14 released by Wang et al. (2017) also publicly available on the Kaggle [21] platform
 which consists of 112,120 frontal chest X-ray images from 30,085 patients. Each radiographic image in the dataset is
 labeled with one or more out of different 14 thoracic diseases. These labels were concluded through Natural
